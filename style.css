@@ -1,6 +1,6 @@
 .page{
-  width: 100%;
-  align-items: center;
+  width: 80%; /* Or set a max-width if you prefer */
+  margin: 0 auto; 
 }
 
 .cards-container {
@@ -8,7 +8,6 @@
   flex-wrap: wrap; 
   justify-content: center; 
   gap: 20px; /* Adjust the space between cards */
-  width:80%
 }
 
 .card {
