@@ -12,6 +12,7 @@
     border-radius: 5px; /* 5px rounded corners */
     width: calc(33.333% - 20px); /* Adjust width for 3 cards per line, accounting for the gap */
     margin-bottom: 20px; /* Space between rows of cards */
+    max-width: 300px;
   }
   
   /* On mouse-over, add a deeper shadow */
