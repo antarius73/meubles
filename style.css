@@ -2,6 +2,7 @@
   width: 80%; /* Or set a max-width if you prefer */
   margin: 0 auto; 
   text-align: center;
+  font-family: Verdana, sans-serif; 
 }
 h1, p {
   margin: 0 0 20px; /* Adds some space below the elements */
